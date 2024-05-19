@@ -11,7 +11,7 @@ Concepts
 -   [Python packages](https://alx-intranet.hbtn.io/concepts/66)
 -   [AirBnB clone](https://alx-intranet.hbtn.io/concepts/74)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240519T193437Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1478d4134d9c861ae8173bf969859c65fd1088ef5235e60e5bdb421aefcce3ab)
+<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
 
 Background Context
@@ -173,7 +173,7 @@ $
 
 All tests should also pass in non-interactive mode: `$ echo "python3 -m unittest discover tests" | bash`
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240519T193437Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=945387ab04dc44965bee47339c351378f25c15635d0ea265fed7302fc262aeb8)
+<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/hbnb_step5.png" />
 
 
 
@@ -1021,3 +1021,4 @@ Well done on completing this project! Let the world hear about this milestone ac
 -   GitHub repository: `AirBnB_clone`
 -   File: `tests/test_console.py`
 ------------------------------------------------------
+
